@@ -140,7 +140,7 @@ Open `attention-res-unet.ipynb` on Kaggle and run all cells. Training runs for u
 | + Attention gates only | 98.12 | 4.03 |
 | Full Attention-ResUNet | **99.30** | **2.14** |
 
-Both components contribute independently. Together they produce a result stronger than either alone -- the compositional argument central to the paper.
+Both components contribute independently. Together they produce a result stronger than either alone , that's the compositional argument central to the paper.
 
 ---
 
@@ -164,12 +164,12 @@ arXiv preprint: [arxiv.org/abs/2604.18148](https://arxiv.org/abs/2604.18148)
 
 ---
 
-## Related Work
+## Related Work on Segmentation
 
 This is the first paper in a line of work on fetal ultrasound analysis:
 
-- **FETALFusion** (MICCAI 2026, under review) -- extends to multi-domain segmentation with a dual-path CNN-Mamba encoder and resolution-aware SSM scanning. DSC = 0.9635 on HC18+PSFHS joint training.
-- **FETALFusion-v2** (in preparation, Medical Image Analysis) -- simultaneous segmentation and landmark heatmap regression for automated fetal biometry across 5 public datasets.
+- **FETALFusion** (MICCAI 2026, under review) : extends to multi-domain segmentation with a dual-path CNN-Mamba encoder and resolution-aware SSM scanning. DSC = 0.9635 on HC18+PSFHS joint training.
+- **FETALFusion-v2** (in preparation, Medical Image Analysis) : simultaneous segmentation and landmark heatmap regression for automated fetal biometry across 5 public datasets.
 
 ---
 
