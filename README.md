@@ -1,6 +1,6 @@
 # Attention-ResUNet for Automated Fetal Head Segmentation
 
-> Official code for "Attention-ResUNet for Automated Fetal Head Segmentation", published at ANTIC 2025 (Springer). Best Paper Award, Image Processing Track.
+> Official code for "Attention-ResUNet for Automated Fetal Head Segmentation", published at ANTIC 2025 (Springer). Best Paper Award in the Image Processing Track.
 
 [![arXiv](https://img.shields.io/badge/arXiv-2604.18148-b31b1b.svg)](https://arxiv.org/abs/2604.18148)
 [![ANTIC 2025](https://img.shields.io/badge/ANTIC_2025-Best_Paper-gold)](https://arxiv.org/abs/2604.18148)
